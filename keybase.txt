@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/rrodolfo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://coffeetildawn.com
+  * I am rrodolfo (https://keybase.io/rrodolfo) on keybase.
+  * I have a public key with fingerprint 2280 65C3 FC37 DD62 070D  06E8 5DA6 BC57 9030 8EEF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014837b0f568d7f314cacb870a3e44fefab139803e44fde233a46adbf87be41bba0a",
+            "fingerprint": "228065c3fc37dd62070d06e85da6bc5790308eef",
+            "host": "keybase.io",
+            "key_id": "5da6bc5790308eef",
+            "kid": "01014837b0f568d7f314cacb870a3e44fefab139803e44fde233a46adbf87be41bba0a",
+            "uid": "4f2e14883551aa845e51d78861946219",
+            "username": "rrodolfo"
+        },
+        "revoke": {
+            "sig_ids": [
+                "0cfd4fc4a58ded723548a8b5ef404a2890fbcdf3ec53c62e2d16e0ac361150310f"
+            ]
+        },
+        "service": {
+            "hostname": "coffeetildawn.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1480298088,
+    "expire_in": 157680000,
+    "prev": "823a670dbc6e77412df0195d0c6e1d89ef1b5df6df676724ea1d083cec4d1ca5",
+    "seqno": 7,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMJwAnicrZJtaBxFGMcvqS/tNZGAUgi+kYntl4ZjZudl586ixaCxFoQKtZWkHrMz
+zyTbJLvn3iY1xFQSKGKl9UMJKoooiJ8UKdQaECVRq6GBttCWRmlpRYW+pK1QzupV
+rbNH/eZHl4Xl2fk/v+c//5lvWpfl8k0iFJPdf79Za1qYuz6S2/rw3oFxFMRmDJXG
+0SA0PjBkoJqWB0ODSggTTJikfoAtF9L4lhKmlQ6kjxUFxixYFRBalLhRGfAoVUwo
+E1jpB8BIECisUBeyYdQPSSUJo9RhPU9iwTW1mvrGCA/72GABkhslAs39IqZYAljX
+OBBXsw5nLlBVKISx++eKcsPef+j/Z98jDRyzHjiepJwTpSTjwInxpRSkyIRHipmw
+CkmkhsGpkyQ28ZCN0UQXSmA0HoQs12rY70xXUakXYW0Ns5opLg0Y36OcSSUDDpZh
+pjxZxDbQxlLQnGrhgWeIAKw0FYRwTAm2aJtju4mjoW7As5RuTdextQBpOGTUjqig
+42FnrpLEaazjIbc8kKaVUuYsHatk8h0QlG+BykEYGXdOrmEUkmoYR6hEnFKnYUZ2
+AWDPJSZlF4IXK2EC5TBTcF9I7J5sDIw6pPSoEu5EAy3A9xnxjMWkyA12NTGyCJYE
+3FjhXl/4HgNFDJZUg2aGaMVRtrUXohiVfGdT9TukCy9S6UgCaOKr2b7bck353B23
+N2f3N5df0fbvrf7sl+W5b2t7aedbtbnZDzdE9ZM35ndd2ffjynXHn39l07XTM2/z
+7TdqePKh3puFsXmzu3Zo6eTCF1f//G7Nsc1PfJ3Lf79quL5ivmX95Bsfv6/uWcDD
+bRtOd/jT3Z/3dPRfXn1pf/vMXzeXofE/Dt+7ePQgmzrz7sYHp17qeObu90q9LT09
+Z6/9tu5O+9gRvudEpfX33MstzbLvrpXH87/urIw3b+18ID51rrBrdfs+suWnqR9e
+e+fLwVVPd+5RB9Yc2VS+f2T3U2vL9fvmzHOX9q/9ZLatY2mxtfp429Wk3h7WL67f
+PNZ8JTGPHv3gyeUHPpqY3un1XS/83Hth47OLc+fPHXtkqfv1y9OSH361+9OZfwAZ
+zGDG
+=7qgJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rrodolfo
+
+==================================================================
+
