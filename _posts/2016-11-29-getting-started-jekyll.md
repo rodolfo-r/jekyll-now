@@ -6,7 +6,7 @@ category: Tutorial
 tags: [ 'jekyll', 'blog' ]
 ---
 
-## What we will be building lol
+## What we will be building 
 
 A free blog, the developer way.
 
@@ -44,7 +44,7 @@ Even if you only do the setup and never write a blog post on your site, you will
 * Linux or macOS (Preferred)
 * [Homebrew](http://brew.sh/) (for Mac, not required)
 ```
-	$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”
+$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)”
 ```
 
 ### You can use your package manager for only some of these:
@@ -52,11 +52,17 @@ Even if you only do the setup and never write a blog post on your site, you will
 * [Ruby](https://www.ruby-lang.org/en/downloads/)
 * [RubyGems](https://rubygems.org/pages/download)
 * [NodeJS](https://nodejs.org/en/)  
-	`$ brew install node`
+```
+$ brew install node
+```
 * [Python](https://www.python.org/downloads/)  
-	`$ brew install python3`
+```
+$ brew install python3
+```
 * [Jekyll](https://jekyllrb.com)  
-	`$ gem install jekyll`  
+```
+$ gem install jekyll
+```
 
 ## Jekyll Themes: The starting point
 You’re going to want to use a theme as a starting point for the blog
@@ -69,12 +75,16 @@ The setup should be quite easy, since all we need are *three terminal commands*
 
 ### First install the repo on your machine
 ```
-	$ git clone https://github.com/techmexdev/Getting-started-with-Jekyll.git) 
+$ git clone https://github.com/techmexdev/Getting-started-with-Jekyll.git) 
 ```
 Go to it’s directory
-`$ cd Getting-started-with-Jekyll`
+```
+$ cd Getting-started-with-Jekyll
+```
 Build server locally
-`$ jekyll serve`
+```
+$ jekyll serve
+```
 Ta-da! You should see a preview in your browser @ localhost:4000!
 
 ## Adding your  personal data
