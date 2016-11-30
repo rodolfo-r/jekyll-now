@@ -7,12 +7,18 @@ tags: [ 'jekyll', 'blog' ]
 ---
 
 ## What we will be building
+
 A free blog, the developer way.
 ## Why have a blog as a developer?
+
 * Having a blog as a developer will put you as an *authority* among the dev community.
+
 * You will be more *hirable* by employers. Nothing demonstrates domain expertise like a public showcase of it.
+
 * You will *learn* more efficiently by teaching via the [“Feynman Technique”](http://mattyford.com/blog/2014/1/23/the-feynman-technique-model)
-## What is **Jekyll**?  
+
+## What is Jekyll?  
+
 Jekyll is a static site generator.  
 What that means is that it creates your website from the files you give it. You **don’t have to worry about the complexities** that go along with generating a complex blog. All *you* have to do is give it a file written in markdown, and poof: You have another post on your blog!  
 
