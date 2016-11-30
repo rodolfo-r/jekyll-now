@@ -5,8 +5,9 @@ title: Getting Started with Jekyll
 category: Tutorial
 tags: [ 'jekyll', 'blog' ]
 ---
+
 ## What we will be building  
-A free blog, the developer way.  
+A free blog, the developer way.
 ## Why have a blog as a developer?  
 * Having a blog as a developer will put you as an *authority* among the dev community.  
 * You will be more *hirable* by employers. Nothing demonstrates domain expertise like a public showcase of it.  
