@@ -14,7 +14,8 @@ A free blog, the developer way.
 * You will *learn* more efficiently by teaching via the [“Feynman Technique”](http://mattyford.com/blog/2014/1/23/the-feynman-technique-model)  
 ## What is **Jekyll**?  
 Jekyll is a static site generator.  
-What that means is that it creates your website from the files you give it. You **don’t have to worry about the complexities** that go along with generating a complex blog. All *you* have to do is give it a file written in markdown, and poof: You have another post on your blog!
+What that means is that it creates your website from the files you give it. You **don’t have to worry about the complexities** that go along with generating a complex blog. All *you* have to do is give it a file written in markdown, and poof: You have another post on your blog!  
+
 ## Why **Jekyll**?
 ### You can do it yourself
 Why not use a drag and drop website creator? like weebly.com or squarespace.com or wix.com? You can just pay a couple of bucks and you have a website that you can customize with so many of their themes! Well you could, sure. But we are **developers**, and we can’t pay money for something we know we can do, and better.
