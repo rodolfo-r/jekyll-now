@@ -5,7 +5,6 @@ title: Getting Started with Jekyll
 category: Tutorial
 tags: [ 'jekyll', 'blog' ]
 ---
-
 ## What we will be building  
 A free blog, the developer way.  
 ## Why have a blog as a developer?  
@@ -43,7 +42,7 @@ Even if you only do the setup and never write a blog post on your site, you will
 * [Python](https://www.python.org/downloads/)
 `$ brew install python3`
 * [Jekyll](https://jekyllrb.com)
-`$ gem install jekyll`
+`$ gem install jekyll`  
 ## Jekyll Themes: The starting point
 You’re going to want to use a theme as a starting point for the blog
 The best resource would be: [JekyllThemes.org](http://jekyllthemes.org/), but really anything works.
